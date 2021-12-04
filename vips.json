@@ -1,0 +1,6 @@
+[
+  {
+    "discordID": "Discord ID of user running 'vip add' gets logged here",
+    "vrcName": "When running 'vip add', users are prompted to include their VRChat username in the command"
+  }
+]

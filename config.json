@@ -1,0 +1,4 @@
+{
+    "guildID": "ID of guild where Slash Commands are to be registered",
+    "token": ""
+}
